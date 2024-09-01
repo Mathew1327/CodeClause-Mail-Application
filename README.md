@@ -302,37 +302,4 @@ conversations = alfa.mailbox.sentbox.page(params[:page]).per(9)
 conversations = alfa.mailbox.trash.page(params[:page]).per(9)
 ```
 
-You can take a look at the full documentation for Mailboxer in [rubydoc.info](http://rubydoc.info/gems/mailboxer/frames).
 
-## Do you want to test Mailboxer?
-
-Thanks to [Roman Kushnir (@RKushnir)](https://github.com/RKushnir/) you can test Mailboxer with this [sample app](https://github.com/RKushnir/mailboxer-app).
-
-## I need a GUI!
-
-If you need a GUI you should take a look at these links:
-
-* The wiki page [GUI Example on a real application](https://github.com/ging/mailboxer/wiki/GUI-Example-on-a-real-application).
-
-## Contributors
-* [Roendal](https://github.com/ging/mailboxer/commits/master?author=Roendal) (Eduardo Casanova)
-* [dickeyxxx](https://github.com/ging/mailboxer/commits/master?author=dickeyxxx) (Jeff Dickey)
-* [RKushnir](https://github.com/ging/mailboxer/commits/master?author=RKushnir) (Roman Kushnir)
-* [amaierhofer](https://github.com/ging/mailboxer/commits/master?author=amaierhofer) (Andreas Maierhofer)
-* [tonydewan](https://github.com/ging/mailboxer/commits/master?author=tonydewan) (Tony Dewan)
-* [plentz](https://github.com/ging/mailboxer/commits/master?author=plentz) (Diego Plentz)
-* [laserlemon](https://github.com/ging/mailboxer/commits/master?author=laserlemon) (Steve Richert)
-* [daveworth](https://github.com/ging/mailboxer/commits/master?author=daveworth) (Dave Worth)
-* [rafaelgg](https://github.com/ging/mailboxer/commits/master?author=rafaelgg) (Rafael Garcia)
-* [joshblour](https://github.com/ging/mailboxer/commits/master?author=joshblour) (joshblour)
-* [iamdeuterium](https://github.com/ging/mailboxer/commits/master?author=iamdeuterium) (iamdeuterium)
-* [daveworth](https://github.com/ging/mailboxer/commits/master?author=daveworth) (Dave Worth)
-* [parndt](https://github.com/ging/mailboxer/commits/master?author=parndt) (Philip Arndt)
-* [atd](https://github.com/ging/mailboxer/commits/master?author=atd) (Antonio Tapiador)
-* [mobilutz](https://github.com/ging/mailboxer/commits/master?author=mobilutz) (Lutz)
-* [bennick](https://github.com/ging/mailboxer/commits/master?author=bennick) (Ryan Bennick)
-* [rjst](https://github.com/ging/mailboxer/commits/master?author=rjst) (Ricardo Trindade)
-* [fabianoalmeida](https://github.com/ging/mailboxer/commits/master?author=fabianoalmeida) (Fabiano Almeida)
-* [supremebeing7](https://github.com/ging/mailboxer/commits/master?author=supremebeing7) (Mark J. Lehman)
-* [searsaw](https://github.com/mailboxer/mailboxer/commits/master?author=searsaw) (Alex Sears)
-* [joshblour](https://github.com/mailboxer/mailboxer/commits/master?author=joshblour) (Yonah Forst)
